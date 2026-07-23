@@ -1,0 +1,59 @@
+remote_theme: "mmistakes/minimal-mistakes@4.28.0"
+minimal_mistakes_skin: "dark"
+url: "https://twied.github.io"
+
+title: Tim Wiederhake
+subtitle: Systems software engineering, Linux kernel, virtualization
+name: Tim Wiederhake
+description: Short-form thoughts on systems programming, Linux kernel development, and virtualization.
+
+author:
+  name: Tim Wiederhake
+  bio: Senior systems software engineer. Linux kernel, virtualization, low-level C/C++.
+  avatar: /assets/images/avatar.jpg
+  links:
+    - label: GitHub
+      icon: fab fa-github
+      url: "https://github.com/twied"
+    - label: GitLab
+      icon: fab fa-gitlab
+      url: "https://gitlab.com/twied"
+    - label: LinkedIn
+      icon: fab fa-linkedin
+      url: "https://www.linkedin.com/in/tim-wiederhake"
+    - label: Bluesky
+      icon: fab fa-bluesky
+      url: "https://bsky.app/profile/twiederh.bsky.social"
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      show_date: true
+      sidebar:
+        nav: "projects"
+  - scope:
+      path: ""
+    values:
+      layout: single
+      author_profile: true
+      sidebar:
+        nav: "projects"
+
+include:
+  - _pages
+
+plugins:
+  - jekyll-feed
+  - jekyll-include-cache
+
+header_pages: []
+
+excerpt_separator: <!--more-->
+
+tag_archive:
+  type: liquid
+  path: /tags/

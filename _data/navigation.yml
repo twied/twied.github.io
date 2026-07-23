@@ -1,0 +1,9 @@
+projects:
+  - title: Projects
+    children:
+      - title: "x86rme: x86 real mode emulator"
+        url: "https://gitlab.com/twied/x86rme"
+      - title: "KVMDemo: lightweight hypervisor built on Linux KVM"
+        url: "https://gitlab.com/twied/kvmdemo"
+      - title: "exlutum: self-hosting compiler from a minimal binary seed"
+        url: "https://gitlab.com/twied/exlutum"
