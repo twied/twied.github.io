@@ -1,0 +1,324 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 728 496" font-family="sans-serif">
+<rect width="728" height="496" fill="#f8f8f8"/>
+<rect x="0" y="0" width="24" height="24" fill="#ccc" stroke="#555" stroke-width=".5"/>
+<rect x="24" y="0" width="704" height="24" fill="#ddd" stroke="#555" stroke-width=".5"/>
+<rect x="0" y="24" width="24" height="416" fill="#ddd" stroke="#555" stroke-width=".5"/>
+<text x="46" y="14" text-anchor="middle" dominant-baseline="central" font-size="10" font-weight="bold" fill="#333">_0</text>
+<text x="90" y="14" text-anchor="middle" dominant-baseline="central" font-size="10" font-weight="bold" fill="#333">_1</text>
+<text x="134" y="14" text-anchor="middle" dominant-baseline="central" font-size="10" font-weight="bold" fill="#333">_2</text>
+<text x="178" y="14" text-anchor="middle" dominant-baseline="central" font-size="10" font-weight="bold" fill="#333">_3</text>
+<text x="222" y="14" text-anchor="middle" dominant-baseline="central" font-size="10" font-weight="bold" fill="#333">_4</text>
+<text x="266" y="14" text-anchor="middle" dominant-baseline="central" font-size="10" font-weight="bold" fill="#333">_5</text>
+<text x="310" y="14" text-anchor="middle" dominant-baseline="central" font-size="10" font-weight="bold" fill="#333">_6</text>
+<text x="354" y="14" text-anchor="middle" dominant-baseline="central" font-size="10" font-weight="bold" fill="#333">_7</text>
+<text x="398" y="14" text-anchor="middle" dominant-baseline="central" font-size="10" font-weight="bold" fill="#333">_8</text>
+<text x="442" y="14" text-anchor="middle" dominant-baseline="central" font-size="10" font-weight="bold" fill="#333">_9</text>
+<text x="486" y="14" text-anchor="middle" dominant-baseline="central" font-size="10" font-weight="bold" fill="#333">_A</text>
+<text x="530" y="14" text-anchor="middle" dominant-baseline="central" font-size="10" font-weight="bold" fill="#333">_B</text>
+<text x="574" y="14" text-anchor="middle" dominant-baseline="central" font-size="10" font-weight="bold" fill="#333">_C</text>
+<text x="618" y="14" text-anchor="middle" dominant-baseline="central" font-size="10" font-weight="bold" fill="#333">_D</text>
+<text x="662" y="14" text-anchor="middle" dominant-baseline="central" font-size="10" font-weight="bold" fill="#333">_E</text>
+<text x="706" y="14" text-anchor="middle" dominant-baseline="central" font-size="10" font-weight="bold" fill="#333">_F</text>
+<text x="12" y="37" text-anchor="middle" dominant-baseline="central" font-size="10" font-weight="bold" fill="#333">0_</text>
+<text x="12" y="63" text-anchor="middle" dominant-baseline="central" font-size="10" font-weight="bold" fill="#333">1_</text>
+<text x="12" y="89" text-anchor="middle" dominant-baseline="central" font-size="10" font-weight="bold" fill="#333">2_</text>
+<text x="12" y="115" text-anchor="middle" dominant-baseline="central" font-size="10" font-weight="bold" fill="#333">3_</text>
+<text x="12" y="141" text-anchor="middle" dominant-baseline="central" font-size="10" font-weight="bold" fill="#333">4_</text>
+<text x="12" y="167" text-anchor="middle" dominant-baseline="central" font-size="10" font-weight="bold" fill="#333">5_</text>
+<text x="12" y="193" text-anchor="middle" dominant-baseline="central" font-size="10" font-weight="bold" fill="#333">6_</text>
+<text x="12" y="219" text-anchor="middle" dominant-baseline="central" font-size="10" font-weight="bold" fill="#333">7_</text>
+<text x="12" y="245" text-anchor="middle" dominant-baseline="central" font-size="10" font-weight="bold" fill="#333">8_</text>
+<text x="12" y="271" text-anchor="middle" dominant-baseline="central" font-size="10" font-weight="bold" fill="#333">9_</text>
+<text x="12" y="297" text-anchor="middle" dominant-baseline="central" font-size="10" font-weight="bold" fill="#333">A_</text>
+<text x="12" y="323" text-anchor="middle" dominant-baseline="central" font-size="10" font-weight="bold" fill="#333">B_</text>
+<text x="12" y="349" text-anchor="middle" dominant-baseline="central" font-size="10" font-weight="bold" fill="#333">C_</text>
+<text x="12" y="375" text-anchor="middle" dominant-baseline="central" font-size="10" font-weight="bold" fill="#333">D_</text>
+<text x="12" y="401" text-anchor="middle" dominant-baseline="central" font-size="10" font-weight="bold" fill="#333">E_</text>
+<text x="12" y="427" text-anchor="middle" dominant-baseline="central" font-size="10" font-weight="bold" fill="#333">F_</text>
+<rect x="24" y="24" width="264" height="26" rx="1" fill="#81c784" stroke="#555" stroke-width=".5"/>
+<text x="156" y="37" text-anchor="middle" dominant-baseline="central" font-size="8" fill="#222">ADD</text>
+<rect x="288" y="24" width="44" height="26" rx="1" fill="#e0e0e0" stroke="#555" stroke-width=".5"/>
+<text x="310" y="37" text-anchor="middle" dominant-baseline="central" font-size="8" fill="#222">PUSH ES</text>
+<rect x="332" y="24" width="44" height="26" rx="1" fill="#e0e0e0" stroke="#555" stroke-width=".5"/>
+<text x="354" y="37" text-anchor="middle" dominant-baseline="central" font-size="8" fill="#222">POP ES</text>
+<rect x="376" y="24" width="264" height="26" rx="1" fill="#81c784" stroke="#555" stroke-width=".5"/>
+<text x="508" y="37" text-anchor="middle" dominant-baseline="central" font-size="8" fill="#222">OR</text>
+<rect x="640" y="24" width="44" height="26" rx="1" fill="#e0e0e0" stroke="#555" stroke-width=".5"/>
+<text x="662" y="37" text-anchor="middle" dominant-baseline="central" font-size="8" fill="#222">PUSH CS</text>
+<rect x="684" y="24" width="44" height="26" rx="1" fill="#90a4ae" stroke="#555" stroke-width=".5"/>
+<text x="706" y="37" text-anchor="middle" dominant-baseline="central" font-size="8" fill="#222">0F:*</text>
+<rect x="24" y="50" width="264" height="26" rx="1" fill="#81c784" stroke="#555" stroke-width=".5"/>
+<text x="156" y="63" text-anchor="middle" dominant-baseline="central" font-size="8" fill="#222">ADC</text>
+<rect x="288" y="50" width="44" height="26" rx="1" fill="#e0e0e0" stroke="#555" stroke-width=".5"/>
+<text x="310" y="63" text-anchor="middle" dominant-baseline="central" font-size="8" fill="#222">PUSH SS</text>
+<rect x="332" y="50" width="44" height="26" rx="1" fill="#e0e0e0" stroke="#555" stroke-width=".5"/>
+<text x="354" y="63" text-anchor="middle" dominant-baseline="central" font-size="8" fill="#222">POP SS</text>
+<rect x="376" y="50" width="264" height="26" rx="1" fill="#81c784" stroke="#555" stroke-width=".5"/>
+<text x="508" y="63" text-anchor="middle" dominant-baseline="central" font-size="8" fill="#222">SBB</text>
+<rect x="640" y="50" width="44" height="26" rx="1" fill="#e0e0e0" stroke="#555" stroke-width=".5"/>
+<text x="662" y="63" text-anchor="middle" dominant-baseline="central" font-size="8" fill="#222">PUSH DS</text>
+<rect x="684" y="50" width="44" height="26" rx="1" fill="#e0e0e0" stroke="#555" stroke-width=".5"/>
+<text x="706" y="63" text-anchor="middle" dominant-baseline="central" font-size="8" fill="#222">POP DS</text>
+<rect x="24" y="76" width="264" height="26" rx="1" fill="#81c784" stroke="#555" stroke-width=".5"/>
+<text x="156" y="89" text-anchor="middle" dominant-baseline="central" font-size="8" fill="#222">AND</text>
+<rect x="288" y="76" width="44" height="26" rx="1" fill="#90a4ae" stroke="#555" stroke-width=".5"/>
+<text x="310" y="89" text-anchor="middle" dominant-baseline="central" font-size="8" fill="#222">ES:</text>
+<rect x="332" y="76" width="44" height="26" rx="1" fill="#e0e0e0" stroke="#555" stroke-width=".5"/>
+<text x="354" y="89" text-anchor="middle" dominant-baseline="central" font-size="8" fill="#222">DAA</text>
+<rect x="376" y="76" width="264" height="26" rx="1" fill="#81c784" stroke="#555" stroke-width=".5"/>
+<text x="508" y="89" text-anchor="middle" dominant-baseline="central" font-size="8" fill="#222">SUB</text>
+<rect x="640" y="76" width="44" height="26" rx="1" fill="#90a4ae" stroke="#555" stroke-width=".5"/>
+<text x="662" y="89" text-anchor="middle" dominant-baseline="central" font-size="8" fill="#222">CS:</text>
+<rect x="684" y="76" width="44" height="26" rx="1" fill="#e0e0e0" stroke="#555" stroke-width=".5"/>
+<text x="706" y="89" text-anchor="middle" dominant-baseline="central" font-size="8" fill="#222">DAS</text>
+<rect x="24" y="102" width="264" height="26" rx="1" fill="#81c784" stroke="#555" stroke-width=".5"/>
+<text x="156" y="115" text-anchor="middle" dominant-baseline="central" font-size="8" fill="#222">XOR</text>
+<rect x="288" y="102" width="44" height="26" rx="1" fill="#90a4ae" stroke="#555" stroke-width=".5"/>
+<text x="310" y="115" text-anchor="middle" dominant-baseline="central" font-size="8" fill="#222">SS:</text>
+<rect x="332" y="102" width="44" height="26" rx="1" fill="#e0e0e0" stroke="#555" stroke-width=".5"/>
+<text x="354" y="115" text-anchor="middle" dominant-baseline="central" font-size="8" fill="#222">AAA</text>
+<rect x="376" y="102" width="264" height="26" rx="1" fill="#81c784" stroke="#555" stroke-width=".5"/>
+<text x="508" y="115" text-anchor="middle" dominant-baseline="central" font-size="8" fill="#222">CMP</text>
+<rect x="640" y="102" width="44" height="26" rx="1" fill="#90a4ae" stroke="#555" stroke-width=".5"/>
+<text x="662" y="115" text-anchor="middle" dominant-baseline="central" font-size="8" fill="#222">DS:</text>
+<rect x="684" y="102" width="44" height="26" rx="1" fill="#e0e0e0" stroke="#555" stroke-width=".5"/>
+<text x="706" y="115" text-anchor="middle" dominant-baseline="central" font-size="8" fill="#222">AAS</text>
+<rect x="24" y="128" width="352" height="26" rx="1" fill="#64b5f6" stroke="#555" stroke-width=".5"/>
+<text x="200" y="141" text-anchor="middle" dominant-baseline="central" font-size="8" fill="#222">INC</text>
+<rect x="376" y="128" width="352" height="26" rx="1" fill="#64b5f6" stroke="#555" stroke-width=".5"/>
+<text x="552" y="141" text-anchor="middle" dominant-baseline="central" font-size="8" fill="#222">DEC</text>
+<rect x="24" y="154" width="352" height="26" rx="1" fill="#64b5f6" stroke="#555" stroke-width=".5"/>
+<text x="200" y="167" text-anchor="middle" dominant-baseline="central" font-size="8" fill="#222">PUSH</text>
+<rect x="376" y="154" width="352" height="26" rx="1" fill="#64b5f6" stroke="#555" stroke-width=".5"/>
+<text x="552" y="167" text-anchor="middle" dominant-baseline="central" font-size="8" fill="#222">POP</text>
+<rect x="24" y="180" width="44" height="26" rx="1" fill="#e0e0e0" stroke="#555" stroke-width=".5"/>
+<text x="46" y="193" text-anchor="middle" dominant-baseline="central" font-size="8" fill="#222">PUSHA</text>
+<rect x="68" y="180" width="44" height="26" rx="1" fill="#e0e0e0" stroke="#555" stroke-width=".5"/>
+<text x="90" y="193" text-anchor="middle" dominant-baseline="central" font-size="8" fill="#222">POPA</text>
+<rect x="112" y="180" width="44" height="26" rx="1" fill="#fff176" stroke="#555" stroke-width=".5"/>
+<text x="134" y="193" text-anchor="middle" dominant-baseline="central" font-size="8" fill="#222">BOUND</text>
+<rect x="156" y="180" width="44" height="26" rx="1" fill="#fff176" stroke="#555" stroke-width=".5"/>
+<text x="178" y="193" text-anchor="middle" dominant-baseline="central" font-size="8" fill="#222">ARPL</text>
+<rect x="200" y="180" width="44" height="26" rx="1" fill="#90a4ae" stroke="#555" stroke-width=".5"/>
+<text x="222" y="193" text-anchor="middle" dominant-baseline="central" font-size="8" fill="#222">FS:*</text>
+<rect x="244" y="180" width="44" height="26" rx="1" fill="#90a4ae" stroke="#555" stroke-width=".5"/>
+<text x="266" y="193" text-anchor="middle" dominant-baseline="central" font-size="8" fill="#222">GS:*</text>
+<rect x="288" y="180" width="44" height="26" rx="1" fill="#90a4ae" stroke="#555" stroke-width=".5"/>
+<text x="310" y="193" text-anchor="middle" dominant-baseline="central" font-size="8" fill="#222">OpSz*</text>
+<rect x="332" y="180" width="44" height="26" rx="1" fill="#90a4ae" stroke="#555" stroke-width=".5"/>
+<text x="354" y="193" text-anchor="middle" dominant-baseline="central" font-size="8" fill="#222">AdSz*</text>
+<rect x="376" y="180" width="44" height="26" rx="1" fill="#ce93d8" stroke="#555" stroke-width=".5"/>
+<text x="398" y="193" text-anchor="middle" dominant-baseline="central" font-size="8" fill="#222">PUSH</text>
+<rect x="420" y="180" width="44" height="26" rx="1" fill="#e57373" stroke="#555" stroke-width=".5"/>
+<text x="442" y="193" text-anchor="middle" dominant-baseline="central" font-size="8" fill="#222">IMUL</text>
+<rect x="464" y="180" width="44" height="26" rx="1" fill="#ce93d8" stroke="#555" stroke-width=".5"/>
+<text x="486" y="193" text-anchor="middle" dominant-baseline="central" font-size="8" fill="#222">PUSH</text>
+<rect x="508" y="180" width="44" height="26" rx="1" fill="#e57373" stroke="#555" stroke-width=".5"/>
+<text x="530" y="193" text-anchor="middle" dominant-baseline="central" font-size="8" fill="#222">IMUL</text>
+<rect x="552" y="180" width="88" height="26" rx="1" fill="#e0e0e0" stroke="#555" stroke-width=".5"/>
+<text x="596" y="193" text-anchor="middle" dominant-baseline="central" font-size="8" fill="#222">INS</text>
+<rect x="640" y="180" width="88" height="26" rx="1" fill="#e0e0e0" stroke="#555" stroke-width=".5"/>
+<text x="684" y="193" text-anchor="middle" dominant-baseline="central" font-size="8" fill="#222">OUTS</text>
+<rect x="24" y="206" width="44" height="26" rx="1" fill="#80cbc4" stroke="#555" stroke-width=".5"/>
+<text x="46" y="219" text-anchor="middle" dominant-baseline="central" font-size="8" fill="#222">JO</text>
+<rect x="68" y="206" width="44" height="26" rx="1" fill="#80cbc4" stroke="#555" stroke-width=".5"/>
+<text x="90" y="219" text-anchor="middle" dominant-baseline="central" font-size="8" fill="#222">JNO</text>
+<rect x="112" y="206" width="44" height="26" rx="1" fill="#80cbc4" stroke="#555" stroke-width=".5"/>
+<text x="134" y="219" text-anchor="middle" dominant-baseline="central" font-size="8" fill="#222">JC</text>
+<rect x="156" y="206" width="44" height="26" rx="1" fill="#80cbc4" stroke="#555" stroke-width=".5"/>
+<text x="178" y="219" text-anchor="middle" dominant-baseline="central" font-size="8" fill="#222">JNC</text>
+<rect x="200" y="206" width="44" height="26" rx="1" fill="#80cbc4" stroke="#555" stroke-width=".5"/>
+<text x="222" y="219" text-anchor="middle" dominant-baseline="central" font-size="8" fill="#222">JE</text>
+<rect x="244" y="206" width="44" height="26" rx="1" fill="#80cbc4" stroke="#555" stroke-width=".5"/>
+<text x="266" y="219" text-anchor="middle" dominant-baseline="central" font-size="8" fill="#222">JNE</text>
+<rect x="288" y="206" width="44" height="26" rx="1" fill="#80cbc4" stroke="#555" stroke-width=".5"/>
+<text x="310" y="219" text-anchor="middle" dominant-baseline="central" font-size="8" fill="#222">JBE</text>
+<rect x="332" y="206" width="44" height="26" rx="1" fill="#80cbc4" stroke="#555" stroke-width=".5"/>
+<text x="354" y="219" text-anchor="middle" dominant-baseline="central" font-size="8" fill="#222">JA</text>
+<rect x="376" y="206" width="44" height="26" rx="1" fill="#80cbc4" stroke="#555" stroke-width=".5"/>
+<text x="398" y="219" text-anchor="middle" dominant-baseline="central" font-size="8" fill="#222">JS</text>
+<rect x="420" y="206" width="44" height="26" rx="1" fill="#80cbc4" stroke="#555" stroke-width=".5"/>
+<text x="442" y="219" text-anchor="middle" dominant-baseline="central" font-size="8" fill="#222">JNS</text>
+<rect x="464" y="206" width="44" height="26" rx="1" fill="#80cbc4" stroke="#555" stroke-width=".5"/>
+<text x="486" y="219" text-anchor="middle" dominant-baseline="central" font-size="8" fill="#222">JPE</text>
+<rect x="508" y="206" width="44" height="26" rx="1" fill="#80cbc4" stroke="#555" stroke-width=".5"/>
+<text x="530" y="219" text-anchor="middle" dominant-baseline="central" font-size="8" fill="#222">JPO</text>
+<rect x="552" y="206" width="44" height="26" rx="1" fill="#80cbc4" stroke="#555" stroke-width=".5"/>
+<text x="574" y="219" text-anchor="middle" dominant-baseline="central" font-size="8" fill="#222">JL</text>
+<rect x="596" y="206" width="44" height="26" rx="1" fill="#80cbc4" stroke="#555" stroke-width=".5"/>
+<text x="618" y="219" text-anchor="middle" dominant-baseline="central" font-size="8" fill="#222">JGE</text>
+<rect x="640" y="206" width="44" height="26" rx="1" fill="#80cbc4" stroke="#555" stroke-width=".5"/>
+<text x="662" y="219" text-anchor="middle" dominant-baseline="central" font-size="8" fill="#222">JLE</text>
+<rect x="684" y="206" width="44" height="26" rx="1" fill="#80cbc4" stroke="#555" stroke-width=".5"/>
+<text x="706" y="219" text-anchor="middle" dominant-baseline="central" font-size="8" fill="#222">JG</text>
+<rect x="24" y="232" width="176" height="26" rx="1" fill="#ffb74d" stroke="#555" stroke-width=".5"/>
+<text x="112" y="245" text-anchor="middle" dominant-baseline="central" font-size="8" fill="#222">GRP1</text>
+<rect x="200" y="232" width="88" height="26" rx="1" fill="#fff176" stroke="#555" stroke-width=".5"/>
+<text x="244" y="245" text-anchor="middle" dominant-baseline="central" font-size="8" fill="#222">TEST</text>
+<rect x="288" y="232" width="88" height="26" rx="1" fill="#fff176" stroke="#555" stroke-width=".5"/>
+<text x="332" y="245" text-anchor="middle" dominant-baseline="central" font-size="8" fill="#222">XCHG</text>
+<rect x="376" y="232" width="176" height="26" rx="1" fill="#fff176" stroke="#555" stroke-width=".5"/>
+<text x="464" y="245" text-anchor="middle" dominant-baseline="central" font-size="8" fill="#222">MOV</text>
+<rect x="552" y="232" width="44" height="26" rx="1" fill="#fff176" stroke="#555" stroke-width=".5"/>
+<text x="574" y="245" text-anchor="middle" dominant-baseline="central" font-size="8" fill="#222">MOV</text>
+<rect x="596" y="232" width="44" height="26" rx="1" fill="#fff176" stroke="#555" stroke-width=".5"/>
+<text x="618" y="245" text-anchor="middle" dominant-baseline="central" font-size="8" fill="#222">LEA</text>
+<rect x="640" y="232" width="44" height="26" rx="1" fill="#fff176" stroke="#555" stroke-width=".5"/>
+<text x="662" y="245" text-anchor="middle" dominant-baseline="central" font-size="8" fill="#222">MOV</text>
+<rect x="684" y="232" width="44" height="26" rx="1" fill="#fff176" stroke="#555" stroke-width=".5"/>
+<text x="706" y="245" text-anchor="middle" dominant-baseline="central" font-size="8" fill="#222">POP</text>
+<rect x="24" y="258" width="44" height="26" rx="1" fill="#e0e0e0" stroke="#555" stroke-width=".5"/>
+<text x="46" y="271" text-anchor="middle" dominant-baseline="central" font-size="8" fill="#222">NOP</text>
+<rect x="68" y="258" width="308" height="26" rx="1" fill="#64b5f6" stroke="#555" stroke-width=".5"/>
+<text x="222" y="271" text-anchor="middle" dominant-baseline="central" font-size="8" fill="#222">XCHG AX</text>
+<rect x="376" y="258" width="44" height="26" rx="1" fill="#e0e0e0" stroke="#555" stroke-width=".5"/>
+<text x="398" y="271" text-anchor="middle" dominant-baseline="central" font-size="8" fill="#222">CBW</text>
+<rect x="420" y="258" width="44" height="26" rx="1" fill="#e0e0e0" stroke="#555" stroke-width=".5"/>
+<text x="442" y="271" text-anchor="middle" dominant-baseline="central" font-size="8" fill="#222">CWD</text>
+<rect x="464" y="258" width="44" height="26" rx="1" fill="#ce93d8" stroke="#555" stroke-width=".5"/>
+<text x="486" y="271" text-anchor="middle" dominant-baseline="central" font-size="8" fill="#222">CALLF</text>
+<rect x="508" y="258" width="44" height="26" rx="1" fill="#e0e0e0" stroke="#555" stroke-width=".5"/>
+<text x="530" y="271" text-anchor="middle" dominant-baseline="central" font-size="8" fill="#222">WAIT</text>
+<rect x="552" y="258" width="44" height="26" rx="1" fill="#e0e0e0" stroke="#555" stroke-width=".5"/>
+<text x="574" y="271" text-anchor="middle" dominant-baseline="central" font-size="8" fill="#222">PUSHF</text>
+<rect x="596" y="258" width="44" height="26" rx="1" fill="#e0e0e0" stroke="#555" stroke-width=".5"/>
+<text x="618" y="271" text-anchor="middle" dominant-baseline="central" font-size="8" fill="#222">POPF</text>
+<rect x="640" y="258" width="44" height="26" rx="1" fill="#e0e0e0" stroke="#555" stroke-width=".5"/>
+<text x="662" y="271" text-anchor="middle" dominant-baseline="central" font-size="8" fill="#222">SAHF</text>
+<rect x="684" y="258" width="44" height="26" rx="1" fill="#e0e0e0" stroke="#555" stroke-width=".5"/>
+<text x="706" y="271" text-anchor="middle" dominant-baseline="central" font-size="8" fill="#222">LAHF</text>
+<rect x="24" y="284" width="176" height="26" rx="1" fill="#ce93d8" stroke="#555" stroke-width=".5"/>
+<text x="112" y="297" text-anchor="middle" dominant-baseline="central" font-size="8" fill="#222">MOV</text>
+<rect x="200" y="284" width="88" height="26" rx="1" fill="#e0e0e0" stroke="#555" stroke-width=".5"/>
+<text x="244" y="297" text-anchor="middle" dominant-baseline="central" font-size="8" fill="#222">MOVS</text>
+<rect x="288" y="284" width="88" height="26" rx="1" fill="#e0e0e0" stroke="#555" stroke-width=".5"/>
+<text x="332" y="297" text-anchor="middle" dominant-baseline="central" font-size="8" fill="#222">CMPS</text>
+<rect x="376" y="284" width="88" height="26" rx="1" fill="#ce93d8" stroke="#555" stroke-width=".5"/>
+<text x="420" y="297" text-anchor="middle" dominant-baseline="central" font-size="8" fill="#222">TEST</text>
+<rect x="464" y="284" width="88" height="26" rx="1" fill="#e0e0e0" stroke="#555" stroke-width=".5"/>
+<text x="508" y="297" text-anchor="middle" dominant-baseline="central" font-size="8" fill="#222">STOS</text>
+<rect x="552" y="284" width="88" height="26" rx="1" fill="#e0e0e0" stroke="#555" stroke-width=".5"/>
+<text x="596" y="297" text-anchor="middle" dominant-baseline="central" font-size="8" fill="#222">LODS</text>
+<rect x="640" y="284" width="88" height="26" rx="1" fill="#e0e0e0" stroke="#555" stroke-width=".5"/>
+<text x="684" y="297" text-anchor="middle" dominant-baseline="central" font-size="8" fill="#222">SCAS</text>
+<rect x="24" y="310" width="352" height="26" rx="1" fill="#64b5f6" stroke="#555" stroke-width=".5"/>
+<text x="200" y="323" text-anchor="middle" dominant-baseline="central" font-size="8" fill="#222">MOV r8, imm8</text>
+<rect x="376" y="310" width="352" height="26" rx="1" fill="#64b5f6" stroke="#555" stroke-width=".5"/>
+<text x="552" y="323" text-anchor="middle" dominant-baseline="central" font-size="8" fill="#222">MOV r16, imm16</text>
+<rect x="24" y="336" width="88" height="26" rx="1" fill="#ffb74d" stroke="#555" stroke-width=".5"/>
+<text x="68" y="349" text-anchor="middle" dominant-baseline="central" font-size="8" fill="#222">GRP2</text>
+<rect x="112" y="336" width="44" height="26" rx="1" fill="#ce93d8" stroke="#555" stroke-width=".5"/>
+<text x="134" y="349" text-anchor="middle" dominant-baseline="central" font-size="8" fill="#222">RETN</text>
+<rect x="156" y="336" width="44" height="26" rx="1" fill="#e0e0e0" stroke="#555" stroke-width=".5"/>
+<text x="178" y="349" text-anchor="middle" dominant-baseline="central" font-size="8" fill="#222">RETN</text>
+<rect x="200" y="336" width="44" height="26" rx="1" fill="#fff176" stroke="#555" stroke-width=".5"/>
+<text x="222" y="349" text-anchor="middle" dominant-baseline="central" font-size="8" fill="#222">LES</text>
+<rect x="244" y="336" width="44" height="26" rx="1" fill="#fff176" stroke="#555" stroke-width=".5"/>
+<text x="266" y="349" text-anchor="middle" dominant-baseline="central" font-size="8" fill="#222">LDS</text>
+<rect x="288" y="336" width="88" height="26" rx="1" fill="#fff176" stroke="#555" stroke-width=".5"/>
+<text x="332" y="349" text-anchor="middle" dominant-baseline="central" font-size="8" fill="#222">MOV</text>
+<rect x="376" y="336" width="44" height="26" rx="1" fill="#ce93d8" stroke="#555" stroke-width=".5"/>
+<text x="398" y="349" text-anchor="middle" dominant-baseline="central" font-size="8" fill="#222">ENTER</text>
+<rect x="420" y="336" width="44" height="26" rx="1" fill="#e0e0e0" stroke="#555" stroke-width=".5"/>
+<text x="442" y="349" text-anchor="middle" dominant-baseline="central" font-size="8" fill="#222">LEAVE</text>
+<rect x="464" y="336" width="44" height="26" rx="1" fill="#ce93d8" stroke="#555" stroke-width=".5"/>
+<text x="486" y="349" text-anchor="middle" dominant-baseline="central" font-size="8" fill="#222">RETF</text>
+<rect x="508" y="336" width="44" height="26" rx="1" fill="#e0e0e0" stroke="#555" stroke-width=".5"/>
+<text x="530" y="349" text-anchor="middle" dominant-baseline="central" font-size="8" fill="#222">RETF</text>
+<rect x="552" y="336" width="44" height="26" rx="1" fill="#e0e0e0" stroke="#555" stroke-width=".5"/>
+<text x="574" y="349" text-anchor="middle" dominant-baseline="central" font-size="8" fill="#222">INT3</text>
+<rect x="596" y="336" width="44" height="26" rx="1" fill="#ce93d8" stroke="#555" stroke-width=".5"/>
+<text x="618" y="349" text-anchor="middle" dominant-baseline="central" font-size="8" fill="#222">INT</text>
+<rect x="640" y="336" width="44" height="26" rx="1" fill="#e0e0e0" stroke="#555" stroke-width=".5"/>
+<text x="662" y="349" text-anchor="middle" dominant-baseline="central" font-size="8" fill="#222">INTO</text>
+<rect x="684" y="336" width="44" height="26" rx="1" fill="#e0e0e0" stroke="#555" stroke-width=".5"/>
+<text x="706" y="349" text-anchor="middle" dominant-baseline="central" font-size="8" fill="#222">IRET</text>
+<rect x="24" y="362" width="176" height="26" rx="1" fill="#ffb74d" stroke="#555" stroke-width=".5"/>
+<text x="112" y="375" text-anchor="middle" dominant-baseline="central" font-size="8" fill="#222">GRP2</text>
+<rect x="200" y="362" width="44" height="26" rx="1" fill="#ce93d8" stroke="#555" stroke-width=".5"/>
+<text x="222" y="375" text-anchor="middle" dominant-baseline="central" font-size="8" fill="#222">AAM</text>
+<rect x="244" y="362" width="44" height="26" rx="1" fill="#ce93d8" stroke="#555" stroke-width=".5"/>
+<text x="266" y="375" text-anchor="middle" dominant-baseline="central" font-size="8" fill="#222">AAD</text>
+<rect x="288" y="362" width="44" height="26" rx="1" fill="#e0e0e0" stroke="#555" stroke-width=".5"/>
+<text x="310" y="375" text-anchor="middle" dominant-baseline="central" font-size="8" fill="#222">SALC</text>
+<rect x="332" y="362" width="44" height="26" rx="1" fill="#e0e0e0" stroke="#555" stroke-width=".5"/>
+<text x="354" y="375" text-anchor="middle" dominant-baseline="central" font-size="8" fill="#222">XLAT</text>
+<rect x="376" y="362" width="352" height="26" rx="1" fill="#bcaaa4" stroke="#555" stroke-width=".5"/>
+<text x="552" y="375" text-anchor="middle" dominant-baseline="central" font-size="8" fill="#222">FPU</text>
+<rect x="24" y="388" width="44" height="26" rx="1" fill="#ce93d8" stroke="#555" stroke-width=".5"/>
+<text x="46" y="401" text-anchor="middle" dominant-baseline="central" font-size="8" fill="#222">LOOPNZ</text>
+<rect x="68" y="388" width="44" height="26" rx="1" fill="#ce93d8" stroke="#555" stroke-width=".5"/>
+<text x="90" y="401" text-anchor="middle" dominant-baseline="central" font-size="8" fill="#222">LOOPZ</text>
+<rect x="112" y="388" width="44" height="26" rx="1" fill="#ce93d8" stroke="#555" stroke-width=".5"/>
+<text x="134" y="401" text-anchor="middle" dominant-baseline="central" font-size="8" fill="#222">LOOP</text>
+<rect x="156" y="388" width="44" height="26" rx="1" fill="#ce93d8" stroke="#555" stroke-width=".5"/>
+<text x="178" y="401" text-anchor="middle" dominant-baseline="central" font-size="8" fill="#222">JCXZ</text>
+<rect x="200" y="388" width="88" height="26" rx="1" fill="#ce93d8" stroke="#555" stroke-width=".5"/>
+<text x="244" y="401" text-anchor="middle" dominant-baseline="central" font-size="8" fill="#222">IN</text>
+<rect x="288" y="388" width="88" height="26" rx="1" fill="#ce93d8" stroke="#555" stroke-width=".5"/>
+<text x="332" y="401" text-anchor="middle" dominant-baseline="central" font-size="8" fill="#222">OUT</text>
+<rect x="376" y="388" width="44" height="26" rx="1" fill="#ce93d8" stroke="#555" stroke-width=".5"/>
+<text x="398" y="401" text-anchor="middle" dominant-baseline="central" font-size="8" fill="#222">CALL</text>
+<rect x="420" y="388" width="44" height="26" rx="1" fill="#ce93d8" stroke="#555" stroke-width=".5"/>
+<text x="442" y="401" text-anchor="middle" dominant-baseline="central" font-size="8" fill="#222">JMP</text>
+<rect x="464" y="388" width="44" height="26" rx="1" fill="#ce93d8" stroke="#555" stroke-width=".5"/>
+<text x="486" y="401" text-anchor="middle" dominant-baseline="central" font-size="8" fill="#222">JMPF</text>
+<rect x="508" y="388" width="44" height="26" rx="1" fill="#ce93d8" stroke="#555" stroke-width=".5"/>
+<text x="530" y="401" text-anchor="middle" dominant-baseline="central" font-size="8" fill="#222">JMP</text>
+<rect x="552" y="388" width="88" height="26" rx="1" fill="#e0e0e0" stroke="#555" stroke-width=".5"/>
+<text x="596" y="401" text-anchor="middle" dominant-baseline="central" font-size="8" fill="#222">IN</text>
+<rect x="640" y="388" width="88" height="26" rx="1" fill="#e0e0e0" stroke="#555" stroke-width=".5"/>
+<text x="684" y="401" text-anchor="middle" dominant-baseline="central" font-size="8" fill="#222">OUT</text>
+<rect x="24" y="414" width="44" height="26" rx="1" fill="#90a4ae" stroke="#555" stroke-width=".5"/>
+<text x="46" y="427" text-anchor="middle" dominant-baseline="central" font-size="8" fill="#222">LOCK</text>
+<rect x="68" y="414" width="44" height="26" rx="1" fill="#e0e0e0" stroke="#555" stroke-width=".5"/>
+<rect x="112" y="414" width="44" height="26" rx="1" fill="#90a4ae" stroke="#555" stroke-width=".5"/>
+<text x="134" y="427" text-anchor="middle" dominant-baseline="central" font-size="8" fill="#222">REPNZ</text>
+<rect x="156" y="414" width="44" height="26" rx="1" fill="#90a4ae" stroke="#555" stroke-width=".5"/>
+<text x="178" y="427" text-anchor="middle" dominant-baseline="central" font-size="8" fill="#222">REP</text>
+<rect x="200" y="414" width="44" height="26" rx="1" fill="#e0e0e0" stroke="#555" stroke-width=".5"/>
+<text x="222" y="427" text-anchor="middle" dominant-baseline="central" font-size="8" fill="#222">HLT</text>
+<rect x="244" y="414" width="44" height="26" rx="1" fill="#e0e0e0" stroke="#555" stroke-width=".5"/>
+<text x="266" y="427" text-anchor="middle" dominant-baseline="central" font-size="8" fill="#222">CMC</text>
+<rect x="288" y="414" width="88" height="26" rx="1" fill="#ffb74d" stroke="#555" stroke-width=".5"/>
+<text x="332" y="427" text-anchor="middle" dominant-baseline="central" font-size="8" fill="#222">GRP3</text>
+<rect x="376" y="414" width="44" height="26" rx="1" fill="#e0e0e0" stroke="#555" stroke-width=".5"/>
+<text x="398" y="427" text-anchor="middle" dominant-baseline="central" font-size="8" fill="#222">CLC</text>
+<rect x="420" y="414" width="44" height="26" rx="1" fill="#e0e0e0" stroke="#555" stroke-width=".5"/>
+<text x="442" y="427" text-anchor="middle" dominant-baseline="central" font-size="8" fill="#222">STC</text>
+<rect x="464" y="414" width="44" height="26" rx="1" fill="#e0e0e0" stroke="#555" stroke-width=".5"/>
+<text x="486" y="427" text-anchor="middle" dominant-baseline="central" font-size="8" fill="#222">CLI</text>
+<rect x="508" y="414" width="44" height="26" rx="1" fill="#e0e0e0" stroke="#555" stroke-width=".5"/>
+<text x="530" y="427" text-anchor="middle" dominant-baseline="central" font-size="8" fill="#222">STI</text>
+<rect x="552" y="414" width="44" height="26" rx="1" fill="#e0e0e0" stroke="#555" stroke-width=".5"/>
+<text x="574" y="427" text-anchor="middle" dominant-baseline="central" font-size="8" fill="#222">CLD</text>
+<rect x="596" y="414" width="44" height="26" rx="1" fill="#e0e0e0" stroke="#555" stroke-width=".5"/>
+<text x="618" y="427" text-anchor="middle" dominant-baseline="central" font-size="8" fill="#222">STD</text>
+<rect x="640" y="414" width="44" height="26" rx="1" fill="#ffb74d" stroke="#555" stroke-width=".5"/>
+<text x="662" y="427" text-anchor="middle" dominant-baseline="central" font-size="8" fill="#222">GRP4</text>
+<rect x="684" y="414" width="44" height="26" rx="1" fill="#ffb74d" stroke="#555" stroke-width=".5"/>
+<text x="706" y="427" text-anchor="middle" dominant-baseline="central" font-size="8" fill="#222">GRP5</text>
+<g font-size="7" fill="#333">
+<rect x="24" y="450" width="12" height="12" rx="1" fill="#81c784" stroke="#555" stroke-width=".3"/>
+<text x="40" y="456" dominant-baseline="central">Binop pattern</text>
+<rect x="140" y="450" width="12" height="12" rx="1" fill="#64b5f6" stroke="#555" stroke-width=".3"/>
+<text x="156" y="456" dominant-baseline="central">Reg-in-opcode</text>
+<rect x="265" y="450" width="12" height="12" rx="1" fill="#fff176" stroke="#555" stroke-width=".3"/>
+<text x="281" y="456" dominant-baseline="central">ModRM</text>
+<rect x="335" y="450" width="12" height="12" rx="1" fill="#ffb74d" stroke="#555" stroke-width=".3"/>
+<text x="351" y="456" dominant-baseline="central">Group</text>
+<rect x="400" y="450" width="12" height="12" rx="1" fill="#80cbc4" stroke="#555" stroke-width=".3"/>
+<text x="416" y="456" dominant-baseline="central">Conditional</text>
+<rect x="500" y="450" width="12" height="12" rx="1" fill="#e57373" stroke="#555" stroke-width=".3"/>
+<text x="516" y="456" dominant-baseline="central">3-operand</text>
+<rect x="590" y="450" width="12" height="12" rx="1" fill="#e0e0e0" stroke="#555" stroke-width=".3"/>
+<text x="606" y="456" dominant-baseline="central">Fixed</text>
+<rect x="24" y="466" width="12" height="12" rx="1" fill="#ce93d8" stroke="#555" stroke-width=".3"/>
+<text x="40" y="472" dominant-baseline="central">Imm/Rel</text>
+<rect x="110" y="466" width="12" height="12" rx="1" fill="#90a4ae" stroke="#555" stroke-width=".3"/>
+<text x="126" y="472" dominant-baseline="central">Prefix</text>
+<rect x="185" y="466" width="12" height="12" rx="1" fill="#bcaaa4" stroke="#555" stroke-width=".3"/>
+<text x="201" y="472" dominant-baseline="central">FPU</text>
+</g>
+<text x="24" y="490" font-size="7" fill="#666">* not supported by x86rme</text>
+</svg>
