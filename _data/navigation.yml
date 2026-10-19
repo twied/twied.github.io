@@ -1,4 +1,8 @@
 projects:
+  - title: Pages
+    children:
+      - title: "Wunderkammer"
+        url: "/wunderkammer/"
   - title: Projects
     children:
       - title: "x86rme: x86 real mode emulator"
