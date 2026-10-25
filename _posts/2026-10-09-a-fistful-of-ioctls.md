@@ -359,4 +359,4 @@ a 50 lines "virtual machine".
 
 The code is on [GitLab](https://gitlab.com/twied/kvmdemo).
 
-PS: Well, erm, I just had another idea: How about using VirtIO...?
+PS: Well, erm, I just had another idea: [How about using VirtIO...?]({% post_url 2026-10-25-for-a-few-ioctls-more %})
