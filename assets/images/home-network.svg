@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="449pt" height="389pt" viewBox="0.00 0.00 449.00 389.00">
+    <defs>
+        <marker style="overflow:visible" id="X" refX="0" refY="0" orient="auto" markerWidth="1" markerHeight="1" viewBox="0 0 1 1" preserveAspectRatio="xMidYMid">
+            <path style="fill:none;stroke:context-stroke;stroke-width:1" d="M -3,3 3,-3 M 3,3 -3,-3"/>
+        </marker>
+        <marker style="overflow:visible" id="V" refX="0" refY="0" orient="auto-start-reverse" markerWidth="1" markerHeight="1" viewBox="0 0 1 1" preserveAspectRatio="xMidYMid">
+            <path style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:butt" d="M 3,-3 0,0 3,3" transform="rotate(180,0.125,0)"/>
+        </marker>
+    </defs>
+    <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 385.33)">
+        <title>home_network</title>
+        <g id="node01" class="node"><title>Internet</title><ellipse fill="none" stroke="lightgray" cx="263.16" cy="-340.26" rx="41.06" ry="41.06"/><text xml:space="preserve" text-anchor="middle" x="263.16" y="-336.06" font-family="Times,serif" font-size="14.00" fill="lightgray">Internet</text></g>
+        <g id="node02" class="node"><title>Router</title><polygon fill="none" stroke="lightgray" points="290.21,-263.2 236.11,-263.2 236.11,-227.2 290.21,-227.2 290.21,-263.2"/><text xml:space="preserve" text-anchor="middle" x="263.16" y="-241" font-family="Times,serif" font-size="14.00" fill="lightgray">Router</text></g>
+        <g id="edge01" class="edge"><title>Internet--Router</title><path fill="none" stroke="lightgray" d="M263.16,-298.72C263.16,-286.37 263.16,-273.46 263.16,-263.52"/></g>
+        <g id="node03" class="node"><title>Switch</title><polygon fill="none" stroke="lightgray" points="302.85,-191.2 223.46,-191.2 223.46,-155.2 302.85,-155.2 302.85,-191.2"/><text xml:space="preserve" text-anchor="middle" x="263.16" y="-169" font-family="Times,serif" font-size="14.00" fill="lightgray">16x Switch</text></g>
+        <g id="edge02" class="edge"><title>Router--Switch</title><path fill="none" stroke="lightgray" d="M263.16,-226.9C263.16,-216.05 263.16,-202.12 263.16,-191.3"/></g>
+        <g id="node04" class="node"><title>Warden</title><polygon fill="none" stroke="lightgray" points="138.31,-116.4 78.01,-116.4 78.01,-80.4 138.31,-80.4 138.31,-116.4"/><text xml:space="preserve" text-anchor="middle" x="108.16" y="-94.2" font-family="Times,serif" font-size="14.00" fill="lightgray">Warden</text></g>
+        <g id="edge07" class="edge"><title>Switch--Warden</title><path fill="none" stroke="lightgray" d="M224.7,-154.8C202.3,-144.58 173.55,-131.33 148.16,-119.2 145.08,-117.73 141.88,-116.18 138.69,-114.62"/></g>
+        <g id="node05" class="node"><title>Trusted1</title><polygon fill="none" stroke="lightgray" points="215.54,-119.2 156.78,-119.2 156.78,-77.6 215.54,-77.6 215.54,-119.2"/><text xml:space="preserve" text-anchor="middle" x="186.16" y="-102.6" font-family="Times,serif" font-size="14.00" fill="lightgray">Trusted</text><text xml:space="preserve" text-anchor="middle" x="186.16" y="-85.8" font-family="Times,serif" font-size="14.00" fill="lightgray">Device</text></g>
+        <g id="edge03" class="edge"><title>Switch--Trusted1</title><path fill="none" stroke="lightgray" d="M244.91,-154.95C233.7,-144.35 219.3,-130.73 207.55,-119.63"/></g>
+        <g id="node06" class="node"><title>Trusted2</title><polygon fill="none" stroke="lightgray" points="292.54,-119.2 233.78,-119.2 233.78,-77.6 292.54,-77.6 292.54,-119.2"/><text xml:space="preserve" text-anchor="middle" x="263.16" y="-102.6" font-family="Times,serif" font-size="14.00" fill="lightgray">Trusted</text><text xml:space="preserve" text-anchor="middle" x="263.16" y="-85.8" font-family="Times,serif" font-size="14.00" fill="lightgray">Device</text></g>
+        <g id="edge04" class="edge"><title>Switch--Trusted2</title><path fill="none" stroke="lightgray" d="M263.16,-154.95C263.16,-144.35 263.16,-130.73 263.16,-119.63"/></g>
+        <g id="node07" class="node"><title>Trusted3</title><polygon fill="none" stroke="lightgray" points="369.54,-119.2 310.78,-119.2 310.78,-77.6 369.54,-77.6 369.54,-119.2"/><text xml:space="preserve" text-anchor="middle" x="340.16" y="-102.6" font-family="Times,serif" font-size="14.00" fill="lightgray">Trusted</text><text xml:space="preserve" text-anchor="middle" x="340.16" y="-85.8" font-family="Times,serif" font-size="14.00" fill="lightgray">Device</text></g>
+        <g id="edge05" class="edge"><title>Switch--Trusted3</title><path fill="none" stroke="lightgray" d="M281.41,-154.95C292.61,-144.35 307.02,-130.73 318.76,-119.63"/></g>
+        <g id="node08" class="node"><title>Trusted4</title><polygon fill="none" stroke="lightgray" points="441.16,-116.4 387.16,-116.4 387.16,-80.4 441.16,-80.4 441.16,-116.4"/><text xml:space="preserve" text-anchor="middle" x="414.16" y="-94.2" font-family="Times,serif" font-size="14.00" fill="lightgray">...</text></g>
+        <g id="edge06" class="edge"><title>Switch--Trusted4</title><path fill="none" stroke="lightgray" stroke-dasharray="1,5" d="M302.88,-154.73C325.18,-144.71 353.43,-131.68 378.16,-119.2 380.96,-117.79 383.86,-116.27 386.75,-114.74"/></g>
+        <g id="node09" class="node"><title>bad1</title><polygon fill="none" stroke="lightgray" points="60.32,-41.6 0,-41.6 0,0 60.32,0 60.32,-41.6"/><text xml:space="preserve" text-anchor="middle" x="30.16" y="-25" font-family="Times,serif" font-size="14.00" fill="lightgray">Isolated</text><text xml:space="preserve" text-anchor="middle" x="30.16" y="-8.2" font-family="Times,serif" font-size="14.00" fill="lightgray">Device</text></g>
+        <g id="edge08" class="edge"><title>Warden--bad1</title><path fill="none" stroke="lightgray" d="M90.46,-80.25C78.68,-68.83 63.17,-53.79 50.83,-41.83"/></g>
+        <g id="node10" class="node"><title>bad2</title><polygon fill="none" stroke="lightgray" points="138.32,-41.6 78,-41.6 78,0 138.32,0 138.32,-41.6"/><text xml:space="preserve" text-anchor="middle" x="108.16" y="-25" font-family="Times,serif" font-size="14.00" fill="lightgray">Isolated</text><text xml:space="preserve" text-anchor="middle" x="108.16" y="-8.2" font-family="Times,serif" font-size="14.00" fill="lightgray">Device</text></g>
+        <g id="edge09" class="edge"><title>Warden--bad2</title><path fill="none" stroke="lightgray" d="M108.16,-80.25C108.16,-68.83 108.16,-53.79 108.16,-41.83"/></g>
+        <g id="node11" class="node"><title>bad3</title><polygon fill="none" stroke="lightgray" points="216.32,-41.6 156,-41.6 156,0 216.32,0 216.32,-41.6"/><text xml:space="preserve" text-anchor="middle" x="186.16" y="-25" font-family="Times,serif" font-size="14.00" fill="lightgray">Isolated</text><text xml:space="preserve" text-anchor="middle" x="186.16" y="-8.2" font-family="Times,serif" font-size="14.00" fill="lightgray">Device</text></g>
+        <g id="edge10" class="edge"><title>Warden--bad3</title><path fill="none" stroke="lightgray" d="M125.86,-80.25C137.63,-68.83 153.15,-53.79 165.49,-41.83"/></g>
+    </g>
+    <text xml:space="preserve" text-anchor="middle" x="76" y="150" font-family="Times,serif" font-size="30px">✅</text>
+    <text xml:space="preserve" text-anchor="middle" x="96" y="228" font-family="Times,serif" font-size="30px">⛔</text>
+    <path style="fill:none;stroke:#ff0000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-dasharray:none;marker-start:;marker-end:url(#X)" d="M 36.902902,343.73 C 92.040178,162.80692 173.66071,266.13 173.66071,266.13" />
+    <path style="fill:none;stroke:#00ff00;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-dasharray:none;marker-start:;marker-end:url(#V)" d="M 23.878348,343.73 C 15.195313,204.05134 227.67354,56.328008 227.67354,56.328008" />
+</svg>

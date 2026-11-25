@@ -1,0 +1,29 @@
+graph home_network {
+    node [shape=box];
+    
+    Internet [shape=circle, label="Internet"];
+    Router [label="Router"];
+    Switch [label="16x Switch"];
+    Warden [label="Warden"];
+    
+    Internet -- Router;
+    Router -- Switch;
+    
+        Trusted1 [label="Trusted\nDevice"];
+        Trusted2 [label="Trusted\nDevice"];
+        Trusted3 [label="Trusted\nDevice"];
+        Trusted4 [label="..."];
+        Switch -- Trusted1;
+        Switch -- Trusted2;
+        Switch -- Trusted3;
+        Switch -- Trusted4 [style="dotted"];
+
+    Switch -- Warden;
+    
+        bad1 [label="Isolated\nDevice"];
+        bad2 [label="Isolated\nDevice"];
+        bad3 [label="Isolated\nDevice"];
+        Warden -- bad1;
+        Warden -- bad2;
+        Warden -- bad3;
+}
